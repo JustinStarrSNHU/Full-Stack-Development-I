@@ -7,22 +7,27 @@ Full Stack Development I with MEAN Stack (MongoDB, Express, Angular, Node.js)
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=222222)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js-002200?style=for-the-badge&logo=nextdotjs&logoColor=green)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 # Hello, and welcome to the Full Stack Development I Repository of my Academic Projects🖐️
 
+Designed and developed a full-stack application using the MEAN stack. Developed the database and the code that interfaces the application to the database. Incorporated templating using handlebars, and enforced the MVC design pattern.
+
+# 📖 Table of Contents
+
 M7 contains the completed Software Design Document (includes screenshots of working application)<br><br>
 
-M1/ Week 1 travlr application and document<br>
-M2/ Week 2 completed travlr folder<br>
-M3/ Week 3 completed travlr folder and Software Design Document milestone<br>
-M4/ Week 4 completed travlr folder<br>
-M5/ Week 5 completed travlr folder and Software Design Document milestone<br>
-M6/ Week 6 completed travlr folder and SPA Screenshots<br>
-M7/ Completed travlr front and backend application and Finalized Software Design Document<br>
-M8/ Reflection<br>
+> 📌 M1/ Week 1 travlr application and document 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M1)<br>
+📌 M2/ Week 2 completed travlr folder 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M2)<br>
+📌 M3/ Week 3 completed travlr folder and Software Design Document milestone 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M3)<br>
+📌 M4/ Week 4 completed travlr folder 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M4)<br>
+📌 M5/ Week 5 completed travlr folder and Software Design Document milestone 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M5)<br>
+📌 M6/ Week 6 completed travlr folder and SPA Screenshots 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M6)<br>
+📌 M7/ Completed travlr front and backend application and Finalized Software Design Document 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M7)<br>
+📌 M8/ Reflection 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M8)<br>
 
 # Architecture
 
