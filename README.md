@@ -2,7 +2,6 @@
 
 Full Stack Development I with MEAN Stack (MongoDB, Express, Angular, Node.js)
 
-
 ![MongoDB](https://img.shields.io/badge/mongodb-003300?style=for-the-badge&logo=mongodb&logoColor=11FF11)
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=222222)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -11,22 +10,24 @@ Full Stack Development I with MEAN Stack (MongoDB, Express, Angular, Node.js)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 # Hello, and welcome to the Full Stack Development I Repository of my Academic Projects🖐️
 
-Designed and developed a full-stack application using the MEAN stack. Developed the database and the code that interfaces the application to the database. Incorporated templating using handlebars, and enforced the MVC design pattern.
+Designed and developed a full-stack application using the MEAN stack. Developed the database and the code that interfaces the application to the database. Incorporated templating using handlebars, and incorporated the MVC design pattern.
 
 # 📖 Table of Contents
 
 M7 contains the completed Software Design Document (includes screenshots of working application)<br><br>
 
-> 📌 M1/ Week 1 travlr application and document 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M1)<br>
-📌 M2/ Week 2 completed travlr folder 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M2)<br>
-📌 M3/ Week 3 completed travlr folder and Software Design Document milestone 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M3)<br>
-📌 M4/ Week 4 completed travlr folder 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M4)<br>
-📌 M5/ Week 5 completed travlr folder and Software Design Document milestone 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M5)<br>
-📌 M6/ Week 6 completed travlr folder and SPA Screenshots 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M6)<br>
-📌 M7/ Completed travlr front and backend application and Finalized Software Design Document 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M7)<br>
+> 📌 M1/ Week 1 travlr application and document | Setting up the environment 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M1)<br>
+📌 M2/ Week 2 completed travlr folder | Model View Controler (MVC) Routing 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M2)<br>
+📌 M3/ Week 3 completed travlr folder and Software Design Document milestone | Static HTML to Templates with JSON 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M3)<br>
+📌 M4/ Week 4 completed travlr folder | NoSQL Databases, Models, and Schemas 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M4)<br>
+📌 M5/ Week 5 completed travlr folder and Software Design Document milestone | RESTful API 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M5)<br>
+📌 M6/ Week 6 completed travlr folder and SPA Screenshots | SPA (Single Page Application) 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M6)<br>
+📌 M7/ Completed travlr front and backend application and Finalized Software Design Document | Security 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M7)<br>
 📌 M8/ Reflection 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Full-Stack-Development-I/tree/main/M8)<br>
 
 # Architecture
