@@ -1,9 +1,17 @@
-# Full-Stack-Development-I
+# Full-Stack-Development-I | Developer: Justin Starr
+
+Full Stack Development I with MEAN Stack (MongoDB, Express, Angular, Node.js)
+
 
 ![MongoDB](https://img.shields.io/badge/mongodb-003300?style=for-the-badge&logo=mongodb&logoColor=11FF11)
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=222222)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js-002200?style=for-the-badge&logo=nextdotjs&logoColor=green)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+# Hello, and welcome to the Full Stack Development I Repository of my Academic Projects🖐️
 
 M7 contains the completed Software Design Document (includes screenshots of working application)<br><br>
 
@@ -15,28 +23,6 @@ M5/ Week 5 completed travlr folder and Software Design Document milestone<br>
 M6/ Week 6 completed travlr folder and SPA Screenshots<br>
 M7/ Completed travlr front and backend application and Finalized Software Design Document<br>
 M8/ Reflection<br>
-
-
-Full Stack Development I with MEAN Stack (MongoDB, Express, Angular, Node.js)
-
-[![Mongodb][Mongodb]][Mongodb-url]
-
-[![Express][Express.js]][Express-url]
-
-[![Angular][Angular.io]][Angular-url]
-
-[![Node][Node.js]][Node-url]
-
-
-
-[Node.js]: https://img.shields.io/badge/node.js-002200?style=for-the-badge&logo=nextdotjs&logoColor=green
-[Node-url]: https://nodejs.org/en/
-[Express.js]: https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=222222
-[Express-url]: https://expressjs.com/
-[Mongodb]: https://img.shields.io/badge/mongodb-003300?style=for-the-badge&logo=mongodb&logoColor=11FF11
-[Mongodb-url]: https://www.mongodb.com/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
 
 # Architecture
 
