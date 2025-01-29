@@ -2,6 +2,8 @@
 
 ![MongoDB](https://img.shields.io/badge/mongodb-003300?style=for-the-badge&logo=mongodb&logoColor=11FF11)
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=222222)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node](https://img.shields.io/badge/node.js-002200?style=for-the-badge&logo=nextdotjs&logoColor=green)
 
 M7 contains the completed Software Design Document (includes screenshots of working application)<br><br>
 
